@@ -1,6 +1,6 @@
 # Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
 
-# dependencies
+# dependencies git remote add origin https://github.com/masterivanic/piscine-react-native.git
 node_modules/
 
 # Expo
